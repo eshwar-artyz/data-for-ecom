@@ -1,7 +1,7 @@
 {
   "name": "database",
   "version": "1.0.0",
-  "description": "��#\u0000 \u0000d\u0000a\u0000t\u0000a\u0000-\u0000f\u0000o\u0000r\u0000-\u0000e\u0000c\u0000o\u0000m\u0000\r\u0000 \u0000",
+  "description": "Data for ecom",
   "homepage": "https://github.com/eshwar-artyz/data-for-ecom#readme",
   "bugs": {
     "url": "https://github.com/eshwar-artyz/data-for-ecom/issues"
@@ -16,7 +16,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "json-server --host 0.0.0.0 --port $PORT db.json",
+    "start": "json-server --host 0.0.0.0 --port $PORT db.json"
   },
   "dependencies": {
     "json-server": "^0.17.4"
